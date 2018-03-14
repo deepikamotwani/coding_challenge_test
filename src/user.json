@@ -1,0 +1,25 @@
+
+{
+  "userList": [
+    {
+      "name": "Suzy Cuningham",
+      "email": "suzy.cuningham@gmail.com"
+    },
+    {
+      "name": "Bobby Daniels",
+      "email": "bobby.daniels@gmail.com"
+    },
+    {
+      "name": "John Walker",
+      "email": "john.walker@gmail.com"
+    },
+    {
+      "name": "Eddy Stevens",
+      "email": "eddy.stevens@gmail.com"
+    },
+    {
+      "name": "Jan Williams",
+      "email": "jan.williams@gmail.com"
+    }
+  ]
+}

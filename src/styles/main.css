@@ -1,0 +1,71 @@
+.header-content{
+  background: #4285f4;
+  width: 100%;
+  text-align: left;
+}
+.header-content h2{
+  font-size: 14px;
+  color: #fff;
+  margin: 0;
+  padding: 10px;
+}
+.sidebar-content{
+  width: 39%;
+  text-align: left;
+  float: left;
+  border-right: 1px solid #ccc;
+}
+.sidebar-content h2{
+  font-size: 16px;
+  font-weight: normal;
+  padding: 0 10px 10px;
+  color: #3C3736;
+  border-bottom: 2px solid #808080;
+}
+.sidebar-content ul{
+  list-style-type: none;
+  padding: 5px 0;
+}
+.sidebar-content ul li{
+  margin-bottom: 10px;
+  font-size: 12px;
+  padding: 10px 0 10px 10px;
+}
+.sidebar-content ul li:first-child{
+  background: #eee;
+}
+.sidebar-content ul li a{
+  color: #3C3736;
+  text-decoration: none;
+}
+.alluser-content{
+  width: 60%;
+  float: left;
+  text-align: left;
+}
+.alluser-content h2{
+  font-size: 16px;
+  font-weight: normal;
+  padding: 0 10px 10px;
+  color: #3C3736;
+  border-bottom: 2px solid #808080;
+}
+.alluser-content input[type='text']{
+  margin-left: 35px;
+  padding-left: 5px;
+}
+.alluser-content .users-data ul{
+  list-style-type: none;
+  font-size: 12px;
+}
+.alluser-content .users-data li{
+  margin-bottom: 10px;
+}
+.alluser-content .users-data li span{
+  color: #ccc;
+}
+.alluser-content .users-data li span:first-child{
+  width: 100%;
+  display: inline-block;
+  color: #3C3736;
+}
